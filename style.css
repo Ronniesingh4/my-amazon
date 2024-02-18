@@ -214,3 +214,14 @@ ul a {
     color: #dddddd;
 
 }
+.foter_bottom{
+    font-size: larger;
+    text-align: center;
+    background-color: #222f3d;
+    color: #fff;
+
+}
+.foter_bottom>h5{
+    font-size: 13px;
+    margin-bottom: 5px;
+}
